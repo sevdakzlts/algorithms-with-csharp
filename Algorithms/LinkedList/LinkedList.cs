@@ -4,9 +4,7 @@
     public class LinkedList
     {
         public Node head;
-        // Linked List
 
-        // 🔥 HW arraysiz ve listesiz linked list. Single Linked List
         public class Node
         {
             public Node next;
@@ -110,7 +108,6 @@
             }
             return false;
         }
-        // Ref: https://www.geeksforgeeks.org/linked-list-implementation-in-c-sharp/
     }
 }
 
